@@ -67,6 +67,8 @@ __BONUS:__ add unit test or minitest.
 
 ## RQS-005
 
+source: http://ruby-china.org/topics/1517
+
 Given two parameters:
 
   - targeting integer, e.g. `5`

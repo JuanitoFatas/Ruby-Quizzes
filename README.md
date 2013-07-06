@@ -55,7 +55,7 @@ Please do so. And please add the quiz in this form: `RQS-xxx` where `xxx` is a 3
 
 source: http://ruby-china.org/topics/1504
 
-Implement a `rand_split` method, modify an array into array with `max_element` elements.
+Implement a `rand_split` method, modify an array into array which composed of elements, and every element's size is `<=` `max_element` elements.
 
 ```ruby
 rand_split(array, max_element)
